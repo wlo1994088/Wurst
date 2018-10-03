@@ -1,2 +1,2 @@
 # Wurst
-This project is used to hand out for the class of System Design.
+##### 資管3A 林右晨 0524031
